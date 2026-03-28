@@ -1,9 +1,9 @@
 class Hunch < Formula
   desc "Standalone CLI for Hunch note metadata, project context, and curation workflows"
   homepage "https://github.com/mattayersnz/hunch-cli"
-  version "18.4.2-main.1774738819"
-  url "https://github.com/mattayersnz/hunch-cli/releases/download/main-36e591e/hunch-18.4.2-main.1774738819-macos-universal.tar.gz"
-  sha256 "47bbd793871db2503ccdb7880a569b22a53a49bb32b20d34b6900378adda0e76"
+  version "18.4.2-main.1774738927"
+  url "https://github.com/mattayersnz/hunch-cli/releases/download/main-9e29d95/hunch-18.4.2-main.1774738927-macos-universal.tar.gz"
+  sha256 "3b53671a70cc459183c707e85d19d7b695498a16f53b758b6bcc8ec545c8041d"
   license "Proprietary"
 
   def install
