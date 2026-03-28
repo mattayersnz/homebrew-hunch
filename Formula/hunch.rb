@@ -5,8 +5,6 @@ class Hunch < Formula
   sha256 "b7708673461bd446181953898b4ec618fed51d111017ce1e324bb16542603e6a"
   license "Proprietary"
 
-  depends_on macos: ">= :sonoma"
-
   def install
     bin.install "hunch"
   end
